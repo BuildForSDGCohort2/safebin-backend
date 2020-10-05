@@ -1,0 +1,65 @@
+Dashboard - welcome
+Show badges
+Number of reports, success stories etc
+
+Works
+Add Locations (Dump Sites) on maps - Get Badges
+
+See Location History - Based on Google Maps
+
+Check and edit profile
+
+Logout
+
+Different badges for each work
+Design badges for each task - Just give based on the new submission
+Add date to new badge, submission info (report etc)
+
+Show a list of submissions (Reports and success stories)
+
+When your badges reach 50, you can apply for a PRIZE which will be determined by the admin/organization
+	Prize will be based on sponsors we have
+
+----------------------------------------------------------------------------
+To be done
+----------------------------------------------------------------------------
+
+Report Illegal Dump Sites - Get Badges - ** Add pictures and Google Map point
+Submit Success Story - Get Badges - ** Add pictures
+
+View my badges - ** Share on social media (Twitter and facebook)
+
+**
+Become an agent - Lead for community cleaning (Our Correspondent to your community)
+ - Oppurtunities
+	First Hand Information
+	Job Oppurnities at the ministry
+	Get Stipends and gifts from government for Cleaning
+	Get Free Clothe (SafeBIN Vest)
+	Get the Ambassador badge Online
+	Attend Online Conferences and Seminars
+	A chance to get hired and work with us (Based on commitment to the community)
+
+ - Functions
+	Organize Health Seminars/Workshops
+	Organize Cleaning Activities in the community
+	Encourage people to register and participate on the platform
+**
+
+** Become a donor - donate to cleaning communities
+	--Benefits--
+	Get a Donor Badge
+	Get listed as our sponsors
+
+	--Work--
+	Get payment platform (Use Africa's Talking)
+
+** Show Team - Group Members that worked - Update Members on WhatsApp to send full name and picture
+
+
+---------------------------------------------------------------------------------------------------
+
+Future Works
+Connect with Nigerian Ministry for water resources for operational details
+Connect with other countries in Africa
+Use Location to bring reviews - Get Badges - Future Advance (Use Google History to bring environmental reviews and use it to get environment cleaned)
