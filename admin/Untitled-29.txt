@@ -1,0 +1,4 @@
+https://twitter.com/intent/tweet?text=I%20attended%20the%202020%20Solution%20Challenge%20Demo%20Day%20%23DeveloperStudentClubs%20%40googledevs%20%40googlestudents&url=https%3A%2F%2Fgoogle.dev%2Fbadges%2Fevents%2Fcommunity%2Fdsc-2020-solution-challenge
+https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgoogle.dev%2Fbadges%2Fevents%2Fcommunity%2Fdsc-2020-solution-challenge
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Testing my designs <a href="https://t.co/dGarvbbrXr">pic.twitter.com/dGarvbbrXr</a></p>&mdash; Olayode Enoch (@OlayodeEnoch) <a href="https://twitter.com/OlayodeEnoch/status/1311125944866922496?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

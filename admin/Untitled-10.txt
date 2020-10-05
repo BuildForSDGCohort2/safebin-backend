@@ -1,0 +1,5 @@
+//From the same table
+SELECT 'bola'|| ' ' ||'tade' FROM table_name
+
+//From different tables
+SELECT 'bola' FROM table_name1 || 'tade' FROM table_name2

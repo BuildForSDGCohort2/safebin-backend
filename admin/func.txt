@@ -1,0 +1,43 @@
+Admin Works
+
+Users
+Check Users
+Check Reports - View Pictures - Delete Function (View More) - Actions
+Check Stories - View Pictures - Delete Function
+Be able to delete Success Stories/Reports
+User Emails
+User Phones
+Change User Password
+
+Agent
+Check Agent - Accept/Reject (Update Badges)
+Accepted Agents
+Rejected Agents - Be able to delete
+
+Prize Requests
+Check - Accept/Reject
+Accepted
+Rejected - Delete
+
+SmartBins Requests
+Check - Accept/Reject
+Accepted
+Rejected - Be able to delete
+
+Sponsor
+Check Sponsors
+
+Contact Messages
+New - Mark Read
+Old - Read
+
+Job Alerts
+Add
+Update
+Delete
+
+Admin Functions
+Add Admin
+Change Pass
+
+**Update Teams on main work

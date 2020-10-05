@@ -1,0 +1,2 @@
+use cycle in users table
+the cycle type is used to check account type and amounts
