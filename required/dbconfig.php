@@ -1,6 +1,6 @@
 <?php
 
-	$DB_HOST = 'ns541.domainhosting.com.ng';
+	$DB_HOST = '192.185.57.117';
 	$DB_USER = 'capitosi_safebin';
 	$DB_PASS = 'safebin';
 	$DB_NAME = 'capitosi_safebin';
