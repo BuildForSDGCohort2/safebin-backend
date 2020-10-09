@@ -61,11 +61,11 @@
                             <div class="card">
                                 <div class="card-body">
                                     <div class="d-sm-flex flex-row flex-wrap text-center text-sm-left align-items-center">
-                                        <img src="images/faces/face11.jpg" class="img-lg rounded" alt="profile image" />
+                                        <img src="images/team/Enoch.jpeg" class="img-lg rounded" alt="Olayode Enoch" />
                                         <div class="ml-sm-3 ml-md-0 ml-xl-3 mt-2 mt-sm-0 mt-md-2 mt-xl-0">
-                                            <h6 class="mb-0">Maria</h6>
-                                            <p class="text-muted mb-1">maria@gmail.com</p>
-                                            <p class="mb-0 text-success font-weight-bold">Designer</p>
+                                            <h6 class="mb-0">Olayode Enoch</h6>
+                                            <p class="text-muted mb-1">olayodeenoch@gmail.com</p>
+                                            <p class="mb-0 text-success font-weight-bold">Developer/Team Lead</p>
                                         </div>
                                     </div>
                                 </div>
@@ -75,10 +75,10 @@
                             <div class="card">
                                 <div class="card-body">
                                     <div class="d-sm-flex flex-row flex-wrap text-center text-sm-left align-items-center">
-                                        <img src="images/faces/face9.jpg" class="img-lg rounded" alt="profile image" />
+                                        <img src="images/team/Peter.jpeg" class="img-lg rounded" alt="Peter Awotola" />
                                         <div class="ml-sm-3 ml-md-0 ml-xl-3 mt-2 mt-sm-0 mt-md-2 mt-xl-0">
-                                            <h6 class="mb-0">Thomas Edison</h6>
-                                            <p class="text-muted mb-1">thomas@gmail.com</p>
+                                            <h6 class="mb-0">Peter Awotola</h6>
+                                            <p class="text-muted mb-1">peterawotola@gmail.com</p>
                                             <p class="mb-0 text-success font-weight-bold">Developer</p>
                                         </div>
                                     </div>
@@ -89,10 +89,24 @@
                             <div class="card">
                                 <div class="card-body">
                                     <div class="d-sm-flex flex-row flex-wrap text-center text-sm-left align-items-center">
-                                        <img src="images/faces/face12.jpg" class="img-lg rounded" alt="profile image" />
+                                        <img src="images/team/Ikechukwu.jpeg" class="img-lg rounded" alt="Ikechukwu Anigbata" />
                                         <div class="ml-sm-3 ml-md-0 ml-xl-3 mt-2 mt-sm-0 mt-md-2 mt-xl-0">
-                                            <h6 class="mb-0">Edward</h6>
-                                            <p class="text-muted mb-1">edward@gmail.com</p>
+                                            <h6 class="mb-0">Ikechukwu Anigbata</h6>
+                                            <p class="text-muted mb-1">williamikechukwu@gmail.com</p>
+                                            <p class="mb-0 text-success font-weight-bold">Designer</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4 grid-margin stretch-card">
+                            <div class="card">
+                                <div class="card-body">
+                                    <div class="d-sm-flex flex-row flex-wrap text-center text-sm-left align-items-center">
+                                        <img src="images/team/Malan.jpeg" class="img-lg rounded" alt="Sulaiman Muhammad" />
+                                        <div class="ml-sm-3 ml-md-0 ml-xl-3 mt-2 mt-sm-0 mt-md-2 mt-xl-0">
+                                            <h6 class="mb-0">Sulaiman Muhammad</h6>
+                                            <p class="text-muted mb-1">abbamallams23@gmail.com</p>
                                             <p class="mb-0 text-success font-weight-bold">Tester</p>
                                         </div>
                                     </div>
@@ -127,8 +141,4 @@
     <script src="js/dashboard.js"></script>
     <!-- End custom js for this page-->
 </body>
-
-
-<!-- Mirrored from www.urbanui.com/wagondash/template/demo/vertical-default-light/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 Aug 2019 01:53:25 GMT -->
-
 </html>
