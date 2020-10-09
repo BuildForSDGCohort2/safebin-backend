@@ -1,5 +1,5 @@
 <?php
-$connect=mysqli_connect("ns541.domainhosting.com.ng", "capitosi_safebin", "safebin", "capitosi_safebin");
+$connect=mysqli_connect("192.185.57.117", "capitosi_safebin", "safebin", "capitosi_safebin");
 // Check connection
 if (mysqli_connect_errno())
   {
