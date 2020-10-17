@@ -1,9 +1,9 @@
 <?php
 
-	$DB_HOST = '192.185.57.117';
-	$DB_USER = 'capitosi_safebin';
-	$DB_PASS = 'safebin';
-	$DB_NAME = 'capitosi_safebin';
+	$DB_HOST = 'remotemysql.com';
+	$DB_USER = 'ov37lSw5Yu';
+	$DB_PASS = 'LJmoNpjuGg';
+	$DB_NAME = 'ov37lSw5Yu';
 	
 	try{
 		$DB_con = new PDO("mysql:host={$DB_HOST};dbname={$DB_NAME}",$DB_USER,$DB_PASS);
