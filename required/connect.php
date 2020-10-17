@@ -1,5 +1,5 @@
 <?php
-$connect=mysqli_connect("192.185.57.117", "capitosi_safebin", "safebin", "capitosi_safebin");
+$connect=mysqli_connect("remotemysql.com", "ov37lSw5Yu", "LJmoNpjuGg", "ov37lSw5Yu");
 // Check connection
 if (mysqli_connect_errno())
   {
